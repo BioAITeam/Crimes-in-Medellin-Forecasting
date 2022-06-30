@@ -8,8 +8,10 @@ The datasets used on this project comes from te web page of the "Alcaldia de Med
 
 ## Preprocessing and EDA
 Once the dataframes are united we make and preprocessing and an EDA using `Preprocess and EDA.ipynb` the final dataframes with the preprocessing are **df_crimenes_2.csv** and **df_recursos_clean.csv** that can also be downloaded from 
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6783942.svg)](https://doi.org/10.5281/zenodo.6783942)
 
 ## Neighbors and districts pre-processing
-The forecast was developed using Neighbors and districts meaning this information have to be standarized and  
+The forecast was developed using Neighbors and districts meaning this information have to be standarized and 
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6783942.svg)](https://doi.org/10.5281/zenodo.6783942)
