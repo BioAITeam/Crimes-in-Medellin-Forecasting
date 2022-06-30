@@ -19,7 +19,7 @@ The forecast was developed using Neighbors and districts meaning this informatio
 ## Forecasting Model and Training
 The forecast was developed using Neighbors and districts also we use Tensorflow+Keras, for this we develop the model used on  `Notebooks/Forecasting Model and Training.ipynb` we save the dataframes for each model on files `dataframes/Data_Predict_Captura_Barrios.csv`, `dataframes/Data_Predict_Captura_Comunas.csv`, `dataframes/Data_Predict_Hurtos_Barrios.csv`, and `dataframes/Data_Predict_Hurtos_Comunas.csv`, the results of the experiments are:
 
-| Experiment | Train $R^2$ | Test $R^2$ | Weights |
+| Experiment | Train R^2 | Test $R^2 | Weights |
 | :-------- | :------- | :------------------------- | :------------------------- |
 |Theft on Neighbors| 0.9384 | 0.8159 | Model_1_Medellin_BarriosFecha_Hurto_2015.h5 |
 |Theft on Districts| 0.9958 | 0.9772 | Model_1_Medellin_ComunaSinFecha_Hurto_2015.h5 |
