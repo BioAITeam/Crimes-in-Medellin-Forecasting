@@ -30,5 +30,7 @@ The weights can be downloaded from:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6783942.svg)](https://doi.org/10.5281/zenodo.6783942)
 
-##Prediction and Power BI Input
-For the Power BI is nesesary a input dataframe in this case we use 6 dataframes the two dataframes from the **Preprocessing and EDA** and the other four that corresponf to each prediction of the four experiments shown above, for this we use the `Notebooks/Prediction and Power Bi Input.ipynb` and generate the Excel files `dataframes/Data_Predict_Captura_Barrios.csv`, `dataframes/Data_Predict_Captura_Comunas.csv`, `dataframes/Data_Predict_Hurtos_Barrios.csv`, and `dataframes/Data_Predict_Hurtos_Comunas.csv`**** 
+## Prediction and Power BI Input
+For the Power BI is nesesary a input dataframe in this case we use 6 dataframes the two dataframes from the **Preprocessing and EDA** and the other four that corresponf to each prediction of the four experiments shown above, for this we use the `Notebooks/Prediction and Power Bi Input.ipynb` and generate the Excel files `dataframes/Barrios_Pronostico_Captura.xlsx`, `dataframes/Comunas_Pronostico_Captura.xlsx`, `dataframes/Barrios_Pronostico_Hurtos.xlsx`, and `dataframes/Comunas_Pronostico_Hurtos.xlsx`
+
+Once this datasets are loaded it generates the Power BI dashbord that is public at https://app.powerbi.com/view?r=eyJrIjoiN2M2MmJhM2QtYzM2Mi00YWEwLTk3MjgtZmE4ZDRkOWM1OTVhIiwidCI6ImQ2YTk3NGIwLTg2ZWMtNDkxMi1iNDZjLTBmMGFhZTZhMjE5MCJ9&pageName=ReportSection34728c023007de8039d5
