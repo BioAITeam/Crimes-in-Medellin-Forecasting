@@ -22,3 +22,6 @@ The forecast was developed using Neighbors and districts also we use Tensorflow+
 | Experiment | Train $R^2$ | Test $R^2$ | Weights |
 | :-------- | :------- | :------------------------- | :------------------------- |
 |Theft on Neighbors| 0.9384 | 0.8159 | Model_1_Medellin_BarriosFecha_Hurto_2015.h5 |
+|Theft on Districts| 0.9958 | 0.9772 | Model_1_Medellin_ComunaSinFecha_Hurto_2015.h5 |
+|Capture on Neighbors| 0.9384 | 0.8159 | Model_1_Medellin_BarriosFecha_Hurto_2015.h5 |
+|Capture on Districts| 0.9384 | 0.8159 | Model_1_Medellin_BarriosFecha_Hurto_2015.h5 |
