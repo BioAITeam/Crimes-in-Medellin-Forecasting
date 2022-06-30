@@ -25,3 +25,7 @@ The forecast was developed using Neighbors and districts also we use Tensorflow+
 |Theft on Districts| 0.9958 | 0.9772 | Model_1_Medellin_ComunaSinFecha_Hurto_2015.h5 |
 |Capture on Neighbors| 0.9595 | 0.8470 | Model_1_Medellin_BarrioSinFecha_Captura_2015.h5 |
 |Capture on Districts| 0.9979 | 0.9843 | Model_1_Medellin_ComunaSinFecha_Captura_2015.h5 |
+
+The weights can be downloaded from:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6783942.svg)](https://doi.org/10.5281/zenodo.6783942)
